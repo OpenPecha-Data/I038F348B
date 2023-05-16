@@ -1,0 +1,19 @@
+id: I038F348B
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:32:58.342711
+last_modified: 2023-01-04 11:32:58.342732
+source_metadata:
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+bases:
+  '4389':
+    title: 'The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+      Lhundrupma) from The Guru’s Heart Practice: The Wish-Fulfilling Jewel'
+    base_file: 4389.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
